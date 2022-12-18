@@ -4,7 +4,7 @@
 ## Google Cloud Essential Skills: Challenge Lab                                     ##
 ######################################################################################
 
-================== Task 1: Create a Compute Engine instance, add necessary firewall rules =================
+=============== Task 1: Create a Compute Engine instance, add necessary firewall rules ==============
 
 //Go to Compute Engine -> VM Instannces -> Create Instance.
 
