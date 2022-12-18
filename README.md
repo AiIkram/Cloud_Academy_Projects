@@ -4,10 +4,9 @@
 ## Google Cloud Essential Skills: Challenge Lab                                     ##
 ######################################################################################
 
+================== Task 1: Create a Compute Engine instance, add necessary firewall rules =================
 
-====================== Task 1: Create a Compute Engine instance, add necessary firewall rules ======================
-
-//Goto Compute Engine -> VM Instannces -> Create Instance.
+//Go to Compute Engine -> VM Instannces -> Create Instance.
 
    Name : dev-vm
    Zone : us-east4-b
@@ -19,7 +18,7 @@
           
 //Click Create.
 
-====================== Task 2: Configure Apache2 Web Server in your instance ======================
+================== Task 2: Configure Apache2 Web Server in your instance ==================
 
 // SSH to 'apache' instance and run:-
 
