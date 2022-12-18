@@ -45,7 +45,7 @@ upload the folder to ssh of the vm
 
 sudo gsutil cp -r gs://vm-bucket-123/Cloud_academy_project/* /var/www/html
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/AiIkram/Cloud_Academy_Projects/blob/main/G6.PNG?raw=true)
 
 I exectuted this command to sudo chown -R wwww-data:www-data /var/www
 
