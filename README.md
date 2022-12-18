@@ -39,7 +39,7 @@ sudo apt-get install apache2 -y
 
 to host the website with images i created a bucket called vm-bucket-123
 
-//Goto Cloud Storage -> Bucket -> Create Bucket.
+//Go to Cloud Storage -> Bucket -> Create Bucket.
 
 Name: vm-bucket-123.
 then let the default conditions and click create.
