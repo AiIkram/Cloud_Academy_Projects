@@ -54,7 +54,7 @@ to set "Cloud_academy_project" as the default folder for apache server.
 
 /open the external IP/
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/AiIkram/Cloud_Academy_Projects/blob/main/G5.PNG?raw=true)
 
 
 
