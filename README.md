@@ -26,7 +26,7 @@
 sudo apt-get update
 sudo apt-get install apache2 -y
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/AiIkram/Cloud_Academy_Projects/blob/main/g%C3%A9.PNG?raw=true)
 ------------------------------------------------------------------------------
 
 to host the website with images i created a bucket called vm-bucket-123
