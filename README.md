@@ -31,6 +31,13 @@ sudo apt-get install apache2 -y
 ![alt text](https://github.com/AiIkram/Cloud_Academy_Projects/blob/main/G3.PNG?raw=true)
 ------------------------------------------------------------------------------
 
+
+
+====================== Uploading the folder of my website ======================
+
+
+
+
 to host the website with images i created a bucket called vm-bucket-123
 
 //Goto Cloud Storage -> Bucket -> Create Bucket.
@@ -50,11 +57,18 @@ sudo gsutil cp -r gs://vm-bucket-123/Cloud_academy_project/* /var/www/html
 I exectuted this command to sudo chown -R wwww-data:www-data /var/www
 
 to set "Cloud_academy_project" as the default folder for apache server.
+
+
 ====================== Task 2: Test your server ======================
 
 /open the external IP/
 
 ![alt text](https://github.com/AiIkram/Cloud_Academy_Projects/blob/main/G5.PNG?raw=true)
+
+run the test and see the result
+
+![alt text](https://github.com/AiIkram/Cloud_Academy_Projects/blob/main/G4.PNG?raw=true)
+
 
 
 
